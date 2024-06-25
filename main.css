@@ -1,5 +1,5 @@
 @media screen and (max-width: 1000px) {
-    div.top ul li a {
+/*     div.top ul li a {
         font-size: 50px;
     }
     div.section-1 h1 {
@@ -27,7 +27,7 @@
     }
     div.col-7 p {
         font-size: 27px;
-    }
+    } */
     div.col-7, div.col-5, div.col-6-right, div.col-6-left, div.col-4-middle, div.col-4-right, div.col-4-left, div.col-5-new, div.col-7-new, div.col-5-new1, div.col-7-new1 {
         width: 100%;
         margin: 0;
